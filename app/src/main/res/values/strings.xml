@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Welcome Screen Slider</string>
+    <string name="title_activity_welcome">Welcome to the App</string>
+</resources>
